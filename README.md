@@ -1,7 +1,3 @@
-¡Perfecto! Un buen archivo README es la tarjeta de presentación de tu código.
-
-Aquí tienes un archivo README.md completo, detallando el plugin Player Phantoms, en español e inglés, usando Markdown para que se vea bien en GitHub o GitLab.
-
 👻 Player Phantoms (English)
 
 🌟 Project Summary
